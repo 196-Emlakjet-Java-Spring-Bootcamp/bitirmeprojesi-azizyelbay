@@ -25,3 +25,5 @@ cd bitirmeprojesi-azizyelbay
 ```bash
 docker compose up
 ```
+## Application
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/34959497/179443882-13a50bc0-f595-41ac-bcba-e811fac22342.png)
